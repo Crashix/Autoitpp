@@ -5,13 +5,13 @@ Implementation of Autoit on C++
 
 
 
-AUTOIT++X3 : The source code of the DLLs (it is a VISUAL STUDIO 2012 Application).
-RESSOURCE_AUTOIT++  : DLLs,.h and .lib ... everything you need to develop C++ application using Autoit functionality.
+AUTOIT++X3 : The source code of the DLLs (it is a VISUAL STUDIO 2012 Application).  
+RESSOURCE_AUTOIT++  : DLLs,.h and .lib ... everything you need to develop C++ application using Autoit functionality.  
 
 
 
 /!\
-(Do not forget to include "Windows.h" before "AutoIt++X3.h")
+(Do not forget to include "Windows.h" before "AutoIt++X3.h")  
 
 
 
