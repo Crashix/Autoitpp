@@ -22,4 +22,4 @@ ______________________________________
 All functions are described in <a href="http://www.autoitscript.com/autoit3/docs/">Autoit Documentation</a>
 
 
-Some memory editing and image search functions have been added in their sections( like getting base adress of a process =))
+Some memory editing and image search functions have been added in their sections( like getting base adress of a process )
